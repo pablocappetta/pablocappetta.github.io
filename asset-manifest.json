@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f6021b4.css",
-    "main.js": "/static/js/main.a38eced5.js",
+    "main.css": "/static/css/main.69d37ff6.css",
+    "main.js": "/static/js/main.485f0369.js",
     "static/media/NetflixSans_W_Blk.woff": "/static/media/NetflixSans_W_Blk.bea3baed84f8fe503d08.woff",
     "static/media/NetflixSans_W_Bd.woff": "/static/media/NetflixSans_W_Bd.e4bef10f76490ea55826.woff",
     "static/media/NetflixSans_W_Md.woff": "/static/media/NetflixSans_W_Md.60232abdb63e25430e3f.woff",
@@ -15,11 +15,11 @@
     "static/media/NetflixSans_W_Rg.woff2": "/static/media/NetflixSans_W_Rg.0f89544675950f86a3c9.woff2",
     "static/media/NetflixSans_W_Th.woff2": "/static/media/NetflixSans_W_Th.b8f0827eea5cccd22f15.woff2",
     "index.html": "/index.html",
-    "main.5f6021b4.css.map": "/static/css/main.5f6021b4.css.map",
-    "main.a38eced5.js.map": "/static/js/main.a38eced5.js.map"
+    "main.69d37ff6.css.map": "/static/css/main.69d37ff6.css.map",
+    "main.485f0369.js.map": "/static/js/main.485f0369.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f6021b4.css",
-    "static/js/main.a38eced5.js"
+    "static/css/main.69d37ff6.css",
+    "static/js/main.485f0369.js"
   ]
 }
